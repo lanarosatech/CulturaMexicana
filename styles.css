@@ -1,0 +1,37 @@
+.navbar-brand, .nav-link {
+  text-align: center;
+}
+.nav-link {
+  margin: 0 auto;
+}
+.bg-artesanatos {
+  background-color: #006847;
+  color: white;
+}
+.bg-roupas {
+  background-color: white;
+}
+.bg-festas {
+  background-color: #CE1126;
+  color: white;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #f8f9f9;
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.titulo-roupas {
+  color: #050505;
+  font-size: 2.5rem;
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px rgba(53, 50, 50, 0.5);
+  padding: 10px;
+  margin-bottom: 20px;
+}
